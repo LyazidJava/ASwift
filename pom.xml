@@ -1,0 +1,49 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.prowidesoftware</groupId>
+    <artifactId>pw-swift-core</artifactId>
+    <version>SRU2016-7.8.5</version>
+    <packaging>jar</packaging>
+
+    <name>Prowide Core</name>
+    <description>Prowide Core Libraries for SWIFT (TM) messages</description>
+    <url>http://www.prowidesoftware.com</url>
+
+    <licenses>
+        <license>
+
+            <name>GNU Library or Lesser General Public License version 2.0 (LGPLv2)</name>
+            <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+
+    <developers>
+        <developer>
+            <id>zubri</id>
+            <name>Sebastian Zubrinic</name>
+            <email>zubri@users.sourceforge.net</email>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>rhino</groupId>
+            <artifactId>js</artifactId>
+            <version>1.7R2</version>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
+
+    <organization>
+        <name>Prowide</name>
+        <url>www.prowidesoftware.com</url>
+    </organization>
+</project>

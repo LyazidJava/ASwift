@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.7.0_72-b14 (Oracle Corporation)
+Specification-Title: SRU2016
+Specification-Version: SRU2016
+Specification-Vendor: 
+Implementation-Title: SRU2016-7.8.5-B1610251605
+Implementation-Version: SRU2016-7.8.5-B1610251605
+Implementation-Vendor: prowidesoftware
+Git-Commit: cbf7296b643f7e0888ec39a9f2c625f51eeb5f96
+Git-Tag: property git.tag not set
+
